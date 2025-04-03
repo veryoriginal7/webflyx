@@ -3,3 +3,4 @@
 "An animal caught in a trap will gnaw off its own leg to escape. what will"
 "when is a gift not a gift?"
 "The spice must flow"
+"Fear is the mind-killer."
